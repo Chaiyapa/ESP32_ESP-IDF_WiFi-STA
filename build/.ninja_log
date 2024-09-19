@@ -998,3 +998,13 @@
 105	342	7484334781870012	C:/Users/PC/ESP32_ESP-IDF_WiFi-STA/build/bootloader/bootloader.elf	681bf9c9ebadf21f
 105	342	7484334781870012	C:/Users/PC/ESP32_ESP-IDF_WiFi-STA/build/bootloader/bootloader.bin	681bf9c9ebadf21f
 105	342	7484334781870012	C:/Users/PC/ESP32_ESP-IDF_WiFi-STA/build/bootloader/bootloader.map	681bf9c9ebadf21f
+104	215	0	esp-idf/esptool_py/CMakeFiles/app_check_size	6c36607edd76f917
+104	215	0	C:/Users/PC/ESP32_ESP-IDF_WiFi-STA/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6c36607edd76f917
+85	292	7484334781870012	bootloader-prefix/src/bootloader-stamp/bootloader-build	681bf9c9ebadf21f
+85	292	7484334781870012	bootloader/bootloader.elf	681bf9c9ebadf21f
+85	292	7484334781870012	bootloader/bootloader.bin	681bf9c9ebadf21f
+85	292	7484334781870012	bootloader/bootloader.map	681bf9c9ebadf21f
+85	292	7484334781870012	C:/Users/PC/ESP32_ESP-IDF_WiFi-STA/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	681bf9c9ebadf21f
+85	292	7484334781870012	C:/Users/PC/ESP32_ESP-IDF_WiFi-STA/build/bootloader/bootloader.elf	681bf9c9ebadf21f
+85	292	7484334781870012	C:/Users/PC/ESP32_ESP-IDF_WiFi-STA/build/bootloader/bootloader.bin	681bf9c9ebadf21f
+85	292	7484334781870012	C:/Users/PC/ESP32_ESP-IDF_WiFi-STA/build/bootloader/bootloader.map	681bf9c9ebadf21f
